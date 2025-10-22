@@ -65,6 +65,8 @@ Whats great about the app is that any changes made shows up right away,so the me
 
 React Native. (2025) Navigation. Available at: https://reactnative.dev/docs/navigation (Accessed: 22 October 2025).
 
+React Native. (2025) Navigation. Available at: https://reactnative.dev/docs/typescript (Accessed: 22 October 2025).
+
 
 
 
