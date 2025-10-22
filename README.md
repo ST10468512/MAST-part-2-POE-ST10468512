@@ -6,7 +6,7 @@ https://youtu.be/Tx31yQcKQyE
 
 ## Github link
 
-
+https://github.com/ST10468512/MAST-part-2-POE-ST10468512
 
 
 
@@ -75,9 +75,16 @@ Whats great about the app is that any changes made shows up right away,so the me
 
 ## References
 
-React Native. (2025) Navigation. Available at: https://reactnative.dev/docs/navigation (Accessed: 22 October 2025).
+React Native. (2025) Navigation. Available at: https://reactnative.dev/docs/navigation (Accessed: 20 October 2025).
 
-React Native. (2025) Navigation. Available at: https://reactnative.dev/docs/typescript (Accessed: 22 October 2025).
+React Native. (2025) Navigation. Available at: https://reactnative.dev/docs/typescript (Accessed: 20 October 2025).
+
+Geeksforgeeks, 2025. How to Implement Radio Button In React Native. [online] Available at: https://www.geeksforgeeks.org/react-native/how-to-implement-radio-button-in-react-native [Accessed 10 October 2025].
+
+React Navigation, Moving between screens 2025. [online] Available at : https://reactnavigation.org/docs/getting-started [Accessed 18 October 2025]
+
+
+
 
 
 
