@@ -59,7 +59,8 @@ Whats great about the app is that any changes made shows up right away,so the me
 ![app screen 2](https://github.com/user-attachments/assets/b11059b4-35a5-4ec4-9716-4033adb9dc17)
 
 
-![App screen 3](https://github.com/user-attachments/assets/b45e375c-2783-44d6-95d4-db118a6ebad5)
+![App screen 3](https://github.com/user-attachments/assets/e81ece49-9328-435e-87ea-68b633942dfb)
+
 
 
 
