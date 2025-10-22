@@ -197,7 +197,7 @@ const styles = StyleSheet.create({
     borderRadius: 8,
     padding: 12,
     fontSize: 16,
-    backgroundColor: '#fff',
+    backgroundColor: '#f3f3f3ff',
   },
   textArea: {
     height: 80,
