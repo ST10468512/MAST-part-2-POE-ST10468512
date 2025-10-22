@@ -51,9 +51,10 @@ Whats great about the app is that any changes made shows up right away,so the me
 - AsyncStorage
 - React Hooks
 
-#Screenshots 
+## Screenshots 
 
-![WhatsApp Image 2025-10-22 at 12 11 22 (1)](https://github.com/user-attachments/assets/728274d3-ea6d-4b96-adba-f3cae1528080)
+![App screen ](https://github.com/user-attachments/assets/965c244a-7ea3-481a-bea5-b2f003d29651)
+
 
 
 
