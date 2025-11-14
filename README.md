@@ -2,7 +2,7 @@
 
 A professional menu management application for private chefs, built with React Native, TypeScript, and Expo for seamless cross-platform performance.
 
-## 📋 Table of Contents
+## Table of Contents
 - [Features](#-features)
 - [Tech Stack](#-tech-stack)
 - [Getting Started](#-getting-started)
@@ -31,7 +31,7 @@ A professional menu management application for private chefs, built with React N
 - **Responsive Design**: Optimized for various screen sizes
 - **Offline-First**: Works without internet connection
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 ### Core Technologies
 - **React Native** (v0.72.4+)
