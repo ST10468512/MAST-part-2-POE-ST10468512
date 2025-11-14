@@ -1,4 +1,4 @@
-# 🍽️ Christoffel's Private Chef Menu App
+#  Christoffel's Private Chef Menu App
 
 A professional menu management application for private chefs, built with React Native, TypeScript, and Expo for seamless cross-platform performance.
 
@@ -13,7 +13,7 @@ A professional menu management application for private chefs, built with React N
 - [Contributing](#-contributing)
 - [License](#-license)
 
-## ✨ Features
+##  Features
 
 ### Menu Management
 - **CRUD Operations**: Full Create, Read, Update, Delete functionality for menu items
@@ -51,7 +51,7 @@ A professional menu management application for private chefs, built with React N
 - **React Native Paper** (v5.x) for consistent UI elements
 - **Custom Styling** with StyleSheet
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### Prerequisites
 - Node.js (v16+)
@@ -85,7 +85,7 @@ A professional menu management application for private chefs, built with React N
    npm run android
    ```
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 christoffel-menu/
@@ -103,7 +103,7 @@ christoffel-menu/
 
 For a detailed breakdown of the code structure, see [CODE_STRUCTURE.md](./CODE_STRUCTURE.md).
 
-## 🖥️ Screens
+## Screens
 
 ### Welcome Screen
 - App introduction
@@ -127,7 +127,7 @@ For a detailed breakdown of the code structure, see [CODE_STRUCTURE.md](./CODE_S
 - Image upload support
 - Category selection
 
-## 💾 Data Management
+## Data Management
 
 ### Data Model
 ```typescript
@@ -150,7 +150,7 @@ interface MenuItem {
 - Data is automatically saved when changes are made
 - Implements proper error handling and data validation
 
-## 🤝 Contributing
+##  Contributing
 
 1. Fork the repository
 2. Create your feature branch (`git checkout -b feature/amazing-feature`)
@@ -158,10 +158,4 @@ interface MenuItem {
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
-## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-Built with ❤️ for Christoffel's Private Chef Services
